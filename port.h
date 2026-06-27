@@ -2,8 +2,8 @@
 #define _PORT_H_
 
 //Chan giao tiep giua VXL va DS3231
-sbit 	SDA = P0^0;					   
-sbit 	SCL = P0^1;					   
+//sbit 	SDA = P0^0;					   
+//sbit 	SCL = P0^1;					   
 
 //Chan dieu khien led 7 doan
 sbit c_gio    = P2^5; // led chuc gio
