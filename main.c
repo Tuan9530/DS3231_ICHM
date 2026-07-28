@@ -1,7 +1,7 @@
 #include <REGX52.H>
 #define FREQ_OSC 12000000ul
 #include "LunarCalendar.h"
-#include "port.h"  // khai bao cac chan
+#include "port.h"  // khai bao cac chan//
 
 char hour, min, sec, day, date, month, year, a_min, a_hour; 
 unsigned char d = 0,ds = 0, kt = 0, alr = 0, a = 0, b = 0, m1 = 0, m2 = 0, m3 = 0, m4 = 0, set0 = 0, set1 = 0, alarm0 = 0, alarm1 = 0;
